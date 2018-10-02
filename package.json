@@ -1,0 +1,31 @@
+{
+  "name": "senti-wifi-probe",
+  "version": "1.0.0",
+  "description": "NodeJS Wi-Fi probe (experimental)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/senti-platform/senti-wifi-probe.git"
+  },
+  "keywords": [
+    "Senti",
+    "Probe",
+    "WiFi",
+    "Wi-Fi",
+    "wifi",
+    "IoT",
+    "Senti.Cloud"
+  ],
+  "author": "Christian Broberg",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/senti-platform/senti-wifi-probe/issues"
+  },
+  "homepage": "https://github.com/senti-platform/senti-wifi-probe#readme",
+  "dependencies": {
+    "pcap": "^2.1.0"
+  }
+}
